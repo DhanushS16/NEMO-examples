@@ -4,7 +4,7 @@ MODULE sbcwave
    !! Wave module
    !!======================================================================
    !! History :  3.3  !  2011-09  (M. Adani)  Original code: Drag Coefficient
-   !!         :  3.4  !  2012-10  (M. Adani)  Stokes Drift
+   !!         :  3.4  !  2012-10  (M. Adani)  Stokes Drifty
    !!            3.6  !  2014-09  (E. Clementi,P. Oddo) New Stokes Drift Computation
    !!             -   !  2016-12  (G. Madec, E. Clementi) update Stoke drift computation
    !!                                                    + add sbc_wave_ini routine
